@@ -22,7 +22,7 @@ Sua interface visual foi desenvolvida utilizando as seguintes tecnologias:
 - Clonar todo o repositório
   
   ```
-  git clone https://github.com/brunolimadevelopment/teste-crud-js
+  git clone https://github.com/brunolimadevelopment/crud-reactjs
   ```
 
 - Comandos para rodar o projeto após o clone:
